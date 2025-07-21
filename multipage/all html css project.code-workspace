@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../multi[1]"
+		},
+		{
+			"path": "../singlepagewebsite"
+		}
+	],
+	"settings": {}
+}
